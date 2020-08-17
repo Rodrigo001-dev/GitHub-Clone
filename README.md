@@ -13,3 +13,21 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
  
  ## Aviso 
  Pode acontecer alguim erro ao acessar o Link por causa do netlify
+
+
+
+## 💻 Project
+
+Nowadays most developers have an account on GitHub, and in this project I recreated the GitHub interface consuming a lot of data from GiHub's own API, in a Dark-Mode
+
+## 🚀 Technologies
+
+This project was developed with the following technology:
+
+- [React](https://reactjs.org)
+
+## Link
+ Demo link: https://github-clone-rorigo.netlify.app/
+ 
+ ## Warning
+ There may be an error when accessing the Link because of netlify
